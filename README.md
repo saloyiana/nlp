@@ -4,6 +4,8 @@ This repo will provide a high-level roadmap to anyone interested in exploring tr
 
 ## Targeted Tasks:
 ### Token Classification
+#### References: 
+- https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT_only_first_wordpiece.ipynb#scrollTo=sDZtSsKKntuI
 
 ### Text Classification
 
